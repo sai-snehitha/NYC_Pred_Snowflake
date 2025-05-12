@@ -1,13 +1,4 @@
-# Rubric
 
-| Criteria                                                      | Points |
-| ------------------------------------------------------------- | ------ |
-| Show 23 files in Staging                                      | 20     |
-| Approximately 75 million rows in raw table                    | 20     |
-| Approximately 67 million rows in filtered table               | 20     |
-| Approximately 4.2 million rows in transformed table           | 20     |
-| Approximately 32.4k rows in predictions table for 4 locations | 20     |
-| Four dashboards showing actual vs. predicted rides            | 20     |
 
 
 # Organizing End-to-End Machine Learning Projects
